@@ -26,10 +26,14 @@ const fruit = [
 const gameBoard = [];
 
 // --- Step 1: Create the game board
-function shuffleBoard(){}
+function shuffleBoard(){
+  console.log('Shuffle board here');
+}
 
 // -- Step 2: Create the matching game 
-function match(){}
+function match(){
+  console.log('Match here');
+}
 
 // -- Step 3: Determine if a user has won the game 
 function hasUserWon(){}
